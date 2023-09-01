@@ -13,7 +13,7 @@
     "swiper": "^9.1.0",
     "vue": "^3.2.37",
     "vue-qr": "^4.0.9",
-    "vue-router": "^4.0.16",
+    "vue-router": "^4.2.4",
     "vue3-marquee": "^3.1.2",
     "vue3-puzzle-vcode": "^1.0.8",
     "vuex": "^4.0.2"
